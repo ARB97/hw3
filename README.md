@@ -1,1 +1,3 @@
-HelLo, this is a rainbow webpage.
+Hello, this is a rainbow webpage.
+
+added this line on GITHUB.
